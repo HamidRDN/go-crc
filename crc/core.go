@@ -1,9 +1,6 @@
 package crc
 
-import (
-	"github.com/hamidrdn/go-crc"
-	"sync"
-)
+import "sync"
 
 // Params describes the parameters of a CRC. It also contains a table that is calculated on first use,
 // therefore it is best to share the params as much as possible
