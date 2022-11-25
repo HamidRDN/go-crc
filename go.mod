@@ -1,3 +1,3 @@
-module github.com/HamidRDN/go-crc
+module github.com/hamidrdn/go-crc
 
 go 1.19
